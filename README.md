@@ -1,4 +1,4 @@
-# INFORMACIÓN GENERAL
+# GENERAL INFORMATION
 - Cross-browser compatibility: This puzzle was tested and works in all versions of Safari, Firefox, and Chrome that support the canvas element.
 - Mobile: Works touch events
 - Adjustable Difficulty: The code contains a constant, PUZZLE_DIFFICULTY, that determines the number of pieces. In the demo above, this is set to 4, giving a 4x4 puzzle. We can easily change this - for example, this version has a PUZZLE_DIFFICULTY of 10.
